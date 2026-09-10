@@ -1,8 +1,6 @@
 # Graph Neural Networks for Node Classification
 
-Implementation of a **Graph Convolutional Network (GCN)** for node classification using **PyTorch Geometric** and the **Cora citation network**.
-
-The project demonstrates how Graph Neural Networks incorporate both node features and graph structure to learn node representations and classify nodes in a transductive learning setting.
+Implementation of a **Graph Convolutional Network (GCN)** for node classification using **PyTorch Geometric** and the **Cora citation network**, shows how Graph Neural Networks incorporate both node features and graph structure to learn node representations and classify nodes in a transductive learning setting.
 
 
 In node classification, only a subset of nodes has known ground-truth labels. The objective is to learn from these labeled nodes and predict the classes of the remaining nodes.
